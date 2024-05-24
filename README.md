@@ -12,6 +12,7 @@ Technologies used : Python, MySQL
 
 Note**
 BEFORE RUNNING THE FILE PLEASE BE CONNECTED WITH THE MySQL SERVER LOCALHOST
+
 ENTRY WINDOW : 
 - All the details asked for in the entry page are mandatory fields and cannot be empty.
 - First Name and Last Name cannot contain numerical values.
