@@ -1,16 +1,18 @@
 # Python_mini_project
 
 Title : Details Form Entry and Retrieval
+
 Technologies used : Python, MySQL
 
 - The Details From Entry and Retrieval has 3 GUIs
 - First UI acts as the Main page connecting both the Details entry page and the Data retrieval page.
 - Second UI to enter the data and insert it into the Database. Basic data checks were implemented in order to prevent Bad data insertion.
-- Third UI is to retrieve saved data from the Database
+- Third UI is to retrieve saved data from the Database.
 - To merge the three UIs, Toplevel window method from Tkinter is used.
-- 3 separate classes were made. 1 - Main Page (App), 2 - Data entry page (insert_window) and 3 - Data retrieval (retrieve_window)
+- 3 separate classes were made. 1 - Main Page (App), 2 - Data entry page (insert_window) and 3 - Data retrieval (retrieve_window).
 
 Note**
+
 BEFORE RUNNING THE FILE PLEASE BE CONNECTED WITH THE MySQL SERVER LOCALHOST
 
 ENTRY WINDOW : 
